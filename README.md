@@ -8,4 +8,4 @@ Course outline:
 <img src="https://user-images.githubusercontent.com/58114769/170366667-4e118313-42d4-44b8-aa98-ae8a8f54af9f.png" width="5%" height="5%"/>
 Angela Yu: iOS Bootcamp</a> In progress
 
-<a href="https://youtu.be/7uBqNgxAuBA?t=40)"> ..............</a>
+<a href="https://youtu.be/7uBqNgxAuBA?t=40"> ..............</a>
