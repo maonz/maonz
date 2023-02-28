@@ -3,8 +3,4 @@ Studying Swift
 
 
 Courses list:
-
-<a href="https://www.udemy.com/course/ios-13-app-development-bootcamp/" target="_blank">
-<img src="https://user-images.githubusercontent.com/58114769/184531667-f7721e3d-9791-4b42-b0dc-6cda78ccf864.png" width="5%" height="5%"/>
-Angela Yu: iOS Bootcamp</a> In progress
 <img src="https://user-images.githubusercontent.com/58114769/221360596-cf22747d-dedb-458f-bb88-6d02476e140a.gif"/></a>
